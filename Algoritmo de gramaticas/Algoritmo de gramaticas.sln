@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo de gramaticas Compiladores", "Algoritmo de gramaticas Compiladores\Algoritmo de gramaticas Compiladores.csproj", "{688E100F-D87E-464E-9361-DB7A9F64B79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{688E100F-D87E-464E-9361-DB7A9F64B79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688E100F-D87E-464E-9361-DB7A9F64B79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688E100F-D87E-464E-9361-DB7A9F64B79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688E100F-D87E-464E-9361-DB7A9F64B79D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60070C33-329F-4E96-97AD-B32A8C771FFE}
+	EndGlobalSection
+EndGlobal

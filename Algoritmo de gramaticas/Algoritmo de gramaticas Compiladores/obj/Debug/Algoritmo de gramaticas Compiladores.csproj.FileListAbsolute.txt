@@ -1,0 +1,10 @@
+D:\Visual Studio\Algoritmo de gramaticas\Algoritmo de gramaticas Compiladores\bin\Debug\Algoritmo de gramaticas Compiladores.exe.config
+D:\Visual Studio\Algoritmo de gramaticas\Algoritmo de gramaticas Compiladores\bin\Debug\Algoritmo de gramaticas Compiladores.exe
+D:\Visual Studio\Algoritmo de gramaticas\Algoritmo de gramaticas Compiladores\bin\Debug\Algoritmo de gramaticas Compiladores.pdb
+D:\Visual Studio\Algoritmo de gramaticas\Algoritmo de gramaticas Compiladores\obj\Debug\Algoritmo de gramaticas Compiladores.csprojAssemblyReference.cache
+D:\Visual Studio\Algoritmo de gramaticas\Algoritmo de gramaticas Compiladores\obj\Debug\Algoritmo_de_gramaticas_Compiladores.Form1.resources
+D:\Visual Studio\Algoritmo de gramaticas\Algoritmo de gramaticas Compiladores\obj\Debug\Algoritmo_de_gramaticas_Compiladores.Properties.Resources.resources
+D:\Visual Studio\Algoritmo de gramaticas\Algoritmo de gramaticas Compiladores\obj\Debug\Algoritmo de gramaticas Compiladores.csproj.GenerateResource.cache
+D:\Visual Studio\Algoritmo de gramaticas\Algoritmo de gramaticas Compiladores\obj\Debug\Algoritmo de gramaticas Compiladores.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Algoritmo de gramaticas\Algoritmo de gramaticas Compiladores\obj\Debug\Algoritmo de gramaticas Compiladores.exe
+D:\Visual Studio\Algoritmo de gramaticas\Algoritmo de gramaticas Compiladores\obj\Debug\Algoritmo de gramaticas Compiladores.pdb
